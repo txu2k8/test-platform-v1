@@ -10,7 +10,7 @@ features:
   details: 接口管理、测试、统计分析。
 - title: 精准测试
   details: 测试范围精准生成。
-- title: 工单分析
-  details: 工单数据维护、统计分析。
+- title: 测试管理
+  details: 测试项目过程管理、数据统计分析。
 footer: tao.xu
 ---

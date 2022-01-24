@@ -16,7 +16,7 @@ module.exports = {
     // 右上角搜索框后面的菜单导航
     nav: [
       {text: '首页', link: '/'},
-      {text: '工单分析', link: '/order/'},
+      {text: '测试管理', link: '/test_mgr/'},
       {text: '精准测试', link: '/precise/'},
       {
         text: '接口测试', link: '/api_test/',
