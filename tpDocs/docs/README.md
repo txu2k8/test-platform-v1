@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage:
-heroText: Test Platform
+heroText: Test Platform V1
 tagline: 自动化测试一体化效能平台
 actionText: 快速上手 →
 actionLink: /api_test/guide/
