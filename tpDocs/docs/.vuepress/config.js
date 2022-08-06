@@ -27,7 +27,7 @@ module.exports = {
           {text: '开发手册', link: '/api_test/develop/'}
         ]
       },
-      {text: 'GitLab', link: 'https://github.com/txu2k8/test-platform-v1.git'}
+      {text: 'GitHub', link: 'https://github.com/txu2k8/test-platform-v1.git'}
     ],
 
     //左侧菜单
