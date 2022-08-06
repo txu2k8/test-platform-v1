@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "测试平台",
   "private": true,
-  "homepage" : "https://txu2k8.github.io/auto-test-platform/",
+  "homepage" : "https://txu2k8.github.io/test-platform-v1/",
   "main": "index.js",
   "scripts": {
     "test": "vue-cli-service serve --mode test --port 9528",

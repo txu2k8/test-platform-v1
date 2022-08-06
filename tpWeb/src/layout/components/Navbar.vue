@@ -6,7 +6,7 @@
 
     <div class="right-menu">
       <el-col class="docs-container">
-        <a href="https://txu2k8.github.io/auto-test-platform/" target="_blank">
+        <a href="https://txu2k8.github.io/test-platform-v1/" target="_blank">
           <i class="el-icon-question" title="使用文档" />
         </a>
       </el-col>

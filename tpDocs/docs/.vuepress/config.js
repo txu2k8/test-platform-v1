@@ -1,12 +1,12 @@
 module.exports = {
-  base: '/auto-test-platform/',
+  base: '/test-platform-v1/',
   port: 9529,
   theme: '',
   plugins: [
     '@vuepress/back-to-top', //此处是添加返回顶部的插件
     '@vuepress/medium-zoom'
   ],
-  title: 'testPlatform.docs',
+  title: 'TestPlatformV1.Docs',
   head: [
     // 设置 favicon.ico
     ['link', {rel: 'icon', href: '/assets/img/logo.png'}],
@@ -27,7 +27,7 @@ module.exports = {
           {text: '开发手册', link: '/api_test/develop/'}
         ]
       },
-      {text: 'GitLab', link: 'https://github.com/txu2k8/auto-test-platform.git'}
+      {text: 'GitLab', link: 'https://github.com/txu2k8/test-platform-v1.git'}
     ],
 
     //左侧菜单
